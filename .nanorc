@@ -1,0 +1,4 @@
+set autoindent
+set backupdir ".nanobk"
+set mouse
+set tabsize 4
